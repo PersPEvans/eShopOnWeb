@@ -6,7 +6,7 @@ resources:
       trigger: none
 
 variables:
-  azureServiceConnection: 'azure subs'
+  azureServiceConnection: 'PersPEvans'
   subscriptionId: '79583810-bfbc-4b52-81e9-ea3261258c52'
   resourceGroup: 'rg-eshoponweb-pje'
   location: 'uksouth'
